@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
+
+Route::get('/', ['as' => 'homepage', 'uses' => 'App\Http\Controllers\PageController@homepage'])->name('homepage');
