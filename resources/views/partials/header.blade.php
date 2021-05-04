@@ -20,7 +20,7 @@
     <link href="{{ asset("vendors/magnify-pop/magnific-popup.css") }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset("vendors/nice-select/nice-select.css") }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset("vendors/scroll/jquery.mCustomScrollbar.min.css") }}" rel="stylesheet" type="text/css" />
-    <link href="{{ asset("vendors/elagent/style.css") }}" rel="stylesheet" type="text/css" />
+{{--    <link href="{{ asset("vendors/elagent/style.css") }}" rel="stylesheet" type="text/css" />--}}
     <link href="{{ asset("css/style.css") }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset("css/responsive.css") }}" rel="stylesheet" type="text/css" />
 
@@ -77,10 +77,10 @@
         </div>
     </div>
 </div>
-
+<?php if(isset($homepage)) { ?>
 <header class="header_area">
     <nav class="navbar navbar-expand-lg menu_one" id="landing_page">
-        <div class="container-fluid">
+        <div class="container">
             <a class="navbar-brand" href="#"><img src="img/logo.png" srcset="img/logo2x.png 2x" alt="logo"></a>
             <a class="btn_get btn_hover mobile_btn ml-auto" href="#get-app">Get Started</a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -99,12 +99,12 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav navbar-nav mr-auto ml-auto menu">
-                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">About US</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Support</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Partners</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/aboutus">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/support">Support</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/partners">Partners</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
                 </ul>
                 <div class="tracking_btn">
                     <a class="er_btn btn_hover" href="#get-app"><i class="icon_building"></i>Register</a>
@@ -113,3 +113,40 @@
         </div>
     </nav>
 </header>
+<?php } else { ?>
+<header class="header_area">
+    <nav class="navbar navbar-expand-lg menu_one menu_four">
+        <div class="container">
+            <a class="navbar-brand sticky_logo" href="#"><img src="img/logo2.png" srcset="img/logo2x-2.png 2x"
+                                                              alt="logo"><img src="img/logo.png" srcset="img/logo2x.png 2x" alt=""></a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="menu_toggle">
+                            <span class="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </span>
+                            <span class="hamburger-cross">
+                                <span></span>
+                                <span></span>
+                            </span>
+                        </span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+                <ul class="navbar-nav menu w_menu ml-auto mr-auto">
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/services">Services</a></li>
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/aboutus">About Us</a></li>
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/support">Support</a></li>
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/partners">Partners</a></li>
+                    <li class="nav-item dropdown submenu mega_menu mega_menu_two"><a class="nav-link" href="/contact">Contact</a></li>
+                </ul>
+                <a class="btn_get btn_hover hidden-sm hidden-xs" href="#">Register</a>
+            </div>
+        </div>
+    </nav>
+</header>
+<?php } ?>

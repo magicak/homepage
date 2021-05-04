@@ -18,3 +18,8 @@ use Illuminate\Support\Facades\Route;
 //});
 
 Route::get('/', ['as' => 'homepage', 'uses' => 'App\Http\Controllers\PageController@homepage'])->name('homepage');
+Route::get('/services', ['as' => 'services', 'uses' => 'App\Http\Controllers\PageController@services'])->name('services');
+Route::get('/aboutus', ['as' => 'aboutus', 'uses' => 'App\Http\Controllers\PageController@aboutus'])->name('aboutus');
+Route::get('/support', ['as' => 'support', 'uses' => 'App\Http\Controllers\PageController@support'])->name('support');
+Route::get('/partners', ['as' => 'partners', 'uses' => 'App\Http\Controllers\PageController@partners'])->name('partners');
+Route::get('/contact', ['as' => 'contact', 'uses' => 'App\Http\Controllers\PageController@contact'])->name('contact');
