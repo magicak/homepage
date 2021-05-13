@@ -7,7 +7,7 @@
         <div class="container">
             <div class="breadcrumb_content text-center">
                 <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Our services</h1>
-                <p class="f_400 w_color f_size_16 l_height26">Why I say old chap that is spiffing off his nut arse pear shaped plastered<br> Jeffrey bodge barney some dodgy.!!</p>
+                <p class="f_400 w_color f_size_16 l_height26">Web design and Digital Marketing<br> platform for your company</p>
             </div>
         </div>
     </section>
@@ -20,48 +20,48 @@
             <div class="pulse-x"></div>
         </div>
         <div class="container">
-            <h2 class="f_size_30 f_600 t_color3 l_height45 text-center mb_90">SaasLand is built for designers like you.<br> With useful features, an intuitive interface.</h2>
+            <h2 class="f_size_30 f_600 t_color3 l_height45 text-center mb_90">MagicAK web platform is built for Non-IT users to expert level<br> With useful features, an intuitive interface.</h2>
             <div class="row p_service_info">
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pr_70">
                         <div class="icon icon_one"><i class="ti-panel"></i></div>
-                        <h5 class="f_600 f_p t_color3">Export Presets</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Web Design Platform</h5>
+                        <p class="f_400">Amazing web design platform which is suitable for all kind users with native performance optimization features.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pl_50 pr_20">
                         <div class="icon icon_two"><i class="ti-layout-grid2"></i></div>
-                        <h5 class="f_600 f_p t_color3">Grid and Guides</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Digital Marketing</h5>
+                        <p class="f_400">This is heart of our services which run on top of Web design platform to deliver your message to right customer by using innovation idea and technology.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pl_70">
                         <div class="icon icon_three"><i class="ti-fullscreen"></i></div>
-                        <h5 class="f_600 f_p t_color3">Pixel Precision</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Cloud Hosting</h5>
+                        <p class="f_400">Unlike tradditional Magicak services, weseparate your service to enhance security and performance with higher SEO ranking. We offer the lowest hosting service in the market.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pr_70">
                         <div class="icon icon_four"><i class="ti-vector"></i></div>
-                        <h5 class="f_600 f_p t_color3">Vector Editing</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Enterpise Web Service</h5>
+                        <p class="f_400">With Enterprise customer, we offer 99.99% SLA on multiple our cloud platforms or other public clouds.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pl_50 pr_20">
                         <div class="icon icon_five"><i class="ti-cloud-down"></i></div>
-                        <h5 class="f_600 f_p t_color3">Cloud Service</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Automation</h5>
+                        <p class="f_400">We extend our knowledge to customer who wish to enhance your users experience. A solution is given by leading architect in different technology and proven working solution.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pl_70">
                         <div class="icon icon_six"><i class="ti-bolt"></i></div>
-                        <h5 class="f_600 f_p t_color3">Iterate at Speed</h5>
-                        <p class="f_400">Bog cheeky bugger blow off only a quid grub he legged it porkies tosser young delinquent argy-bargy.</p>
+                        <h5 class="f_600 f_p t_color3">Business eMail Service</h5>
+                        <p class="f_400">Use your own email domain to market your branding to your target customers.</p>
                     </div>
                 </div>
             </div>

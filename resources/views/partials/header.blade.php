@@ -27,56 +27,53 @@
 </head>
 
 <body data-spy="scroll" data-target="header" data-offset="80">
-<div id="preloader">
-    <div id="ctn-preloader" class="ctn-preloader">
-        <div class="animation-preloader">
-            <div class="spinner"></div>
-            <div class="txt-loading">
-                    <span data-text-preloader="M" class="letters-loading">
-                        M
-                    </span>
-                <span data-text-preloader="A" class="letters-loading">
-                        A
-                    </span>
-                <span data-text-preloader="G" class="letters-loading">
-                        G
-                    </span>
-                <span data-text-preloader="I" class="letters-loading">
-                        I
-                    </span>
-                <span data-text-preloader="C" class="letters-loading">
-                        C
-                    </span>
-                <span data-text-preloader="A" class="letters-loading">
-                        A
-                    </span>
-                <span data-text-preloader="K" class="letters-loading">
-                        K
-                    </span>
-{{--                <span data-text-preloader="D" class="letters-loading">--}}
-{{--                        D--}}
+{{--<div id="preloader">--}}
+{{--    <div id="ctn-preloader" class="ctn-preloader">--}}
+{{--        <div class="animation-preloader">--}}
+{{--            <div class="spinner"></div>--}}
+{{--            <div class="txt-loading">--}}
+{{--                    <span data-text-preloader="M" class="letters-loading">--}}
+{{--                        M--}}
 {{--                    </span>--}}
-            </div>
-            <p class="text-center">Loading</p>
-        </div>
-        <div class="loader">
-            <div class="row">
-                <div class="col-3 loader-section section-left">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-left">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-right">
-                    <div class="bg"></div>
-                </div>
-                <div class="col-3 loader-section section-right">
-                    <div class="bg"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+{{--                <span data-text-preloader="A" class="letters-loading">--}}
+{{--                        A--}}
+{{--                    </span>--}}
+{{--                <span data-text-preloader="G" class="letters-loading">--}}
+{{--                        G--}}
+{{--                    </span>--}}
+{{--                <span data-text-preloader="I" class="letters-loading">--}}
+{{--                        I--}}
+{{--                    </span>--}}
+{{--                <span data-text-preloader="C" class="letters-loading">--}}
+{{--                        C--}}
+{{--                    </span>--}}
+{{--                <span data-text-preloader="A" class="letters-loading">--}}
+{{--                        A--}}
+{{--                    </span>--}}
+{{--                <span data-text-preloader="K" class="letters-loading">--}}
+{{--                        K--}}
+{{--                    </span>--}}
+{{--            </div>--}}
+{{--            <p class="text-center">Loading</p>--}}
+{{--        </div>--}}
+{{--        <div class="loader">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-3 loader-section section-left">--}}
+{{--                    <div class="bg"></div>--}}
+{{--                </div>--}}
+{{--                <div class="col-3 loader-section section-left">--}}
+{{--                    <div class="bg"></div>--}}
+{{--                </div>--}}
+{{--                <div class="col-3 loader-section section-right">--}}
+{{--                    <div class="bg"></div>--}}
+{{--                </div>--}}
+{{--                <div class="col-3 loader-section section-right">--}}
+{{--                    <div class="bg"></div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}
 <?php if(isset($homepage)) { ?>
 <header class="header_area">
     <nav class="navbar navbar-expand-lg menu_one" id="landing_page">

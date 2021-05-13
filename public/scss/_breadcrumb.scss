@@ -1,8 +1,9 @@
 /*================= Start breadcrumb_area css =================*/
 .breadcrumb_area{
-    background-image: -moz-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
-    background-image: -webkit-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
-    background-image: -ms-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
+    //background-image: -moz-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
+    //background-image: -webkit-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
+    //background-image: -ms-linear-gradient( 180deg, rgb(94,44,237) 0%, rgb(164,133,253) 100%);
+    background-color: #5e2ced;
     position: relative;
     z-index: 1;
     padding: 235px 0px 125px;
@@ -107,7 +108,7 @@
             position: relative;
             color: #525c7c;
             a{
-                color:#051441; 
+                color:#051441;
             }
             & + li{
                 padding-left: 32px;
@@ -153,10 +154,10 @@
         transform: translateX(0);
     }
     25%{
-       transform: translateY(10px); 
+       transform: translateY(10px);
     }
     50%{
-       transform: translateX(30px); 
+       transform: translateX(30px);
     }
     100%{
         transform: translateX(50px);
@@ -209,7 +210,7 @@
                         display: inline-block;
                         font-family: 'themify';
                         font-size: 10px;
-                        margin:0px 5px 0px 3px; 
+                        margin:0px 5px 0px 3px;
                     }
                 }
             }

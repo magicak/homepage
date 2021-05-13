@@ -9,7 +9,7 @@ is the file you need to edit to change the look of the
 template.
 ---------------------------------------------------- */
 /*=====================================================================
-@Template Name: 
+@Template Name:
 @Author: Md. Shahadat Hussain
 @Developed By: Rony
 @Developer URL: https://themeforest.net/user/droitthemes
@@ -377,7 +377,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .pt_120 {
   padding-top: 40px;
 }
-
+.pd_20 {
+    padding: 20px 0px;
+}
 .sec_pad {
   padding: 120px 0px;
 }
@@ -22420,3 +22422,8 @@ a .h_head:hover {
 /*====================================================*/
 
 /*# sourceMappingURL=style.css.map */
+
+.breadcrumb_area{
+    background-image: none;
+    background-color: #5e2ced;
+}

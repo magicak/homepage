@@ -6,8 +6,8 @@
         <img class="breadcrumb_shap" src="img/breadcrumb/banner_bg.png" alt="">
         <div class="container">
             <div class="breadcrumb_content text-center">
-                <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Case Studies</h1>
-                <p class="f_400 w_color f_size_16 l_height26">Why I say old chap that is spiffing off his nut arse pear shaped plastered<br> Jeffrey bodge barney some dodgy.!!</p>
+                <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Partner</h1>
+                <p class="f_400 w_color f_size_16 l_height26">Web designers and programmers are playing important roles<br>our success and Magicak is a bridge to your customers.</p>
             </div>
         </div>
     </section>
@@ -16,145 +16,109 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_01.jpg" alt="">
+                        <img src="img/partners/pic1.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 24, 2018</p>
+                            <p class="date">Class: Expert</p>
                             <a href="#">
-                                <h3>Apple Mobile Mockup</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 10/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_02.jpg" alt="">
+                        <img src="img/partners/pic2.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 24, 2018</p>
+                            <p class="date">Class: Expert</p>
                             <a href="#">
-                                <h3>Interior Design</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 10/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_03.jpg" alt="">
+                        <img src="img/partners/pic3.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 24, 2018</p>
+                            <p class="date">Class: Expert</p>
                             <a href="#">
-                                <h3>Portfolio Center Slider</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 10/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_04.jpg" alt="">
+                        <img src="img/partners/pic4.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 21, 2018</p>
+                            <p class="date">Class: Pro</p>
                             <a href="#">
-                                <h3>Double Exposure</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_05.jpg" alt="">
+                        <img src="img/partners/pic1.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 24, 2018</p>
+                            <p class="date">Class: Pro</p>
                             <a href="#">
-                                <h3>American Burger</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_06.jpg" alt="">
+                        <img src="img/partners/pic2.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 20, 2018</p>
+                            <p class="date">Class: Pro</p>
                             <a href="#">
-                                <h3>Double Exposure</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_07.jpg" alt="">
+                        <img src="img/partners/pic3.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 24, 2018</p>
+                            <p class="date">Class: Intermediate</p>
                             <a href="#">
-                                <h3>Subwoofer roer Pioneer</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_08.jpg" alt="">
+                        <img src="img/partners/pic4.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 22, 2018</p>
+                            <p class="date">Class: Intermediate</p>
                             <a href="#">
-                                <h3>Canecas Criativas</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="case_study_item">
-                        <img src="img/new/case/case_09.jpg" alt="">
+                        <img src="img/partners/pic1.jpg" alt="">
                         <div class="text">
-                            <p class="date">Nov 26, 2018</p>
+                            <p class="date">Class: Intermediate</p>
                             <a href="#">
-                                <h3>Inner Smart Watch</h3>
+                                <h3>Name: Group Web Specialist</h3>
                             </a>
-                            <p>Client: Desmond Eagle</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="case_study_item">
-                        <img src="img/new/case/case_10.jpg" alt="">
-                        <div class="text">
-                            <p class="date">Nov 24, 2018</p>
-                            <a href="#">
-                                <h3>iphone x Chakraborty</h3>
-                            </a>
-                            <p>Client: Desmond Eagle</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="case_study_item">
-                        <img src="img/new/case/case_11.jpg" alt="">
-                        <div class="text">
-                            <p class="date">Nov 22, 2018</p>
-                            <a href="#">
-                                <h3>Criativas design</h3>
-                            </a>
-                            <p>Client: Desmond Eagle</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="case_study_item">
-                        <img src="img/new/case/case_12.jpg" alt="">
-                        <div class="text">
-                            <p class="date">Nov 26, 2018</p>
-                            <a href="#">
-                                <h3>Freestocks unsplash</h3>
-                            </a>
-                            <p>Client: Desmond Eagle</p>
+                            <p>Rate: 8/10</p>
                         </div>
                     </div>
                 </div>

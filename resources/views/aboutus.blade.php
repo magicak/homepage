@@ -14,7 +14,7 @@
     </section>
     <section class="agency_service_area bg_color">
         <div class="container">
-            <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You SaasLand wherever your<br>
+            <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You MagicAK wherever your<br>
                 business agency</h2>
             <div class="row mb_30">
                 <div class="col-lg-4 col-sm-6">
@@ -72,7 +72,7 @@
             <div class="about_img_slider owl-carousel">
                 <div class="item">
                     <div class="about_item w45">
-                        <img src="img/home4/team1.jpg" alt="">
+                        <img src="img/aboutus/Pic1.webp" alt="">
                         <div class="about_text">
                             <span class="br"></span>
                             <h5 class="f_size_18 l_height28 mb-0">Why I say old chap that is spiffing bodge, blag
@@ -80,7 +80,7 @@
                         </div>
                     </div>
                     <div class="about_item w55">
-                        <img src="img/home4/team2.jpg" alt="">
+                        <img src="img/aboutus/Pic2.webp" alt="">
                         <div class="about_text text_two">
                             <span class="br"></span>
                             <h5 class="f_size_18 l_height28 mb-0">Oxford butty bubble and squeak wind up, brown
@@ -88,7 +88,7 @@
                         </div>
                     </div>
                     <div class="about_item w55">
-                        <img src="img/home4/team2.jpg" alt="">
+                        <img src="img/aboutus/pic3.webp" alt="">
                         <div class="about_text text_two">
                             <span class="br"></span>
                             <h5 class="f_size_18 l_height28 mb-0">Starkers dropped a clanger lurgy is cack excuse my
@@ -96,68 +96,37 @@
                         </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="about_item w45">
-                        <img src="img/home4/team1.jpg" alt="">
-                        <div class="about_text">
-                            <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Why I say old chap that is spiffing bodge, blag
-                                pardon.</h5>
-                        </div>
-                    </div>
-                    <div class="about_item w55">
-                        <img src="img/home4/team2.jpg" alt="">
-                        <div class="about_text text_two">
-                            <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Oxford butty bubble and squeak wind up, brown
-                                bread the full monty.</h5>
-                        </div>
-                    </div>
-                    <div class="about_item w55">
-                        <img src="img/home4/team2.jpg" alt="">
-                        <div class="about_text text_two">
-                            <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Starkers dropped a clanger lurgy is cack excuse my
-                                French what.</h5>
-                        </div>
-                    </div>
-                </div>
+{{--                <div class="item">--}}
+{{--                    <div class="about_item w45">--}}
+{{--                        <img src="img/home4/team1.jpg" alt="">--}}
+{{--                        <div class="about_text">--}}
+{{--                            <span class="br"></span>--}}
+{{--                            <h5 class="f_size_18 l_height28 mb-0">Why I say old chap that is spiffing bodge, blag--}}
+{{--                                pardon.</h5>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="about_item w55">--}}
+{{--                        <img src="img/home4/team2.jpg" alt="">--}}
+{{--                        <div class="about_text text_two">--}}
+{{--                            <span class="br"></span>--}}
+{{--                            <h5 class="f_size_18 l_height28 mb-0">Oxford butty bubble and squeak wind up, brown--}}
+{{--                                bread the full monty.</h5>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="about_item w55">--}}
+{{--                        <img src="img/home4/team2.jpg" alt="">--}}
+{{--                        <div class="about_text text_two">--}}
+{{--                            <span class="br"></span>--}}
+{{--                            <h5 class="f_size_18 l_height28 mb-0">Starkers dropped a clanger lurgy is cack excuse my--}}
+{{--                                French what.</h5>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
     </section>
 
-    <section class="partner_logo_area_five">
-        <div class="container">
-            <h4 class="f_size_18 f_400 f_p text-center l_height28 mb_70">Market leaders use app to nrich their brand
-                & business.</h4>
-            <div class="row partner_info">
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_01.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_02.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_03.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_04.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_05.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_03.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_04.png" alt=""></a>
-                </div>
-                <div class="logo_item">
-                    <a href="#"><img src="img/home3/logo_05.png" alt=""></a>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
 </div>
 

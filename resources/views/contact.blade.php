@@ -11,20 +11,25 @@
             </div>
         </div>
     </section>
-
+    <section class="mapbox2">
+        <div id="mapBox" class="row m0" data-lat="1.2756998" data-lon="103.8436211" data-zoom="17" data-info="10 ANSON ROAD #27-12 INTERNATIONAL PLAZA SINGAPORE (079903)." data-marker="img/map.png" data-mlat="1.2756998" data-mlon="103.8436211">
+        </div>
+    </section>
     <section class="contact_info_area sec_pad bg_color">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 pr-0">
                     <div class="contact_info_item">
                         <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Office Address</h6>
-                        <p class="f_400 f_size_15">Melbourne’s GPO 434 Bourke St. Dhaka VIC 3074, Australia</p>
+                        <p class="f_400 f_size_15">10 ANSON ROAD</p>
+                        <p class="f_400 f_size_15">#27-12</p>
+                        <p class="f_400 f_size_15">INTERNATIONAL PLAZA</p>
+                        <p class="f_400 f_size_15">SINGAPORE (079903)</p>
                     </div>
                     <div class="contact_info_item">
                         <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Contact Info</h6>
-                        <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:3024437488">(+096) 302 443 7488</a></p>
-                        <p class="f_400 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="tel:3024437488">(+096) 204 353 6684</a></p>
-                        <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:saasland@gmail.com">saasland@gmail.com</a></p>
+                        <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:6582366656">(+65) 8236 6656</a></p>
+                        <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:support@magicak.com">support@magicak.com</a></p>
                     </div>
                 </div>
                 <div class="col-lg-8 offset-lg-1">
@@ -62,10 +67,7 @@
         </div>
     </section>
 
-    <section class="mapbox2">
-        <div id="mapBox" class="row m0" data-lat="40.701083" data-lon="-74.1522848" data-zoom="10" data-info="PO Box CT16122 Collins Street West, Victoria 8007, Australia." data-marker="img/map.png" data-mlat="40.701083" data-mlon="-74.1522848">
-        </div>
-    </section>
+
 
 </div>
 

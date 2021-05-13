@@ -1,60 +1,17 @@
-<footer class="footer_area h_footer_dark">
+<footer class="footer_part">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="f_widget dark_widget company_widget">
-                    <a href="index.html" class="f-logo"><img src="img/logo2.png" alt=""></a>
-                    <p>© 2019 SaasLand, LLC. All rights reserved. Proudly made in NY</p>
-                    <div class="f_social_icon">
-                        <a href="#" class="ti-facebook"></a>
-                        <a href="#" class="ti-twitter-alt"></a>
-                        <a href="#" class="ti-vimeo-alt"></a>
-                        <a href="#" class="ti-pinterest"></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="f_widget dark_widget about-widget pl_70">
-                    <h3 class="f-title f_500 t_color f_size_18 mb_40">Download</h3>
-                    <ul class="list-unstyled f_list">
-                        <li><a href="#">Company</a></li>
-                        <li><a href="#">Android App</a></li>
-                        <li><a href="#">ios App</a></li>
-                        <li><a href="#">Desktop</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Partners</a></li>
-                        <li><a href="#">Careers</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="f_widget dark_widget about-widget pl_20">
-                    <h3 class="f-title f_500 t_color f_size_18 mb_40">Help</h3>
-                    <ul class="list-unstyled f_list">
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Privacy</a></li>
-                        <li><a href="#">Term & conditions</a></li>
-                        <li><a href="#">Reporting</a></li>
-                        <li><a href="#">Block Storage</a></li>
-                        <li><a href="#">Tools & Integrations</a></li>
-                        <li><a href="#">API</a></li>
-                        <li><a href="#">Pricing</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-6">
-                <div class="f_widget dark_widget about-widget pl_20">
-                    <h3 class="f-title f_500 t_color f_size_18 mb_40">Team Solutions</h3>
-                    <ul class="list-unstyled f_list">
-                        <li><a href="#">Support</a></li>
-                        <li><a href="#">Sales</a></li>
-                        <li><a href="#">Report Abuse</a></li>
-                        <li><a href="#">System Status</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+        <a href="#" class="f_logo"><img src="img/demo/f_logo.png" srcset="img/demo/f_logo-2.png 2x" alt=""></a>
+        <h2 class="wow fadeInUp" data-wow-delay="0.2s">Grab MagicAK, Get Started<br> and Grow Your Business. </h2>
+        <a class="wow fadeInUp" data-wow-delay="0.4s" href="#"><i class="icon_cart_alt"></i>Let's Go </a>
     </div>
+    <div class="one_img wow slideInnew footer_shap_1" data-wow-delay="1s">
+        <div class="layer layer2" data-depth="0.30"><img src="img/demo/shape/footer_shap_1.png" alt=""></div>
+    </div>
+    <div class="one_img wow slideInnew footer_shap_2" data-wow-delay="0.9s">
+        <div class="layer layer2" data-depth="0.10"><img src="img/demo/shape/footer_shap_2.png" alt=""></div>
+    </div>
+    <img src="img/demo/shape/footer_shap_3.png" alt="#" class="footer_shap_3">
+    <div class="circle_shape_1"></div>
 </footer>
 <script src="{{ asset ("js/jquery-3.2.1.min.js") }}"></script>
 <script src="{{ asset ("js/propper.js") }}"></script>
