@@ -67,40 +67,40 @@
             </div>
         </div>
     </section>
-    <section class="prototype_service_area_two">
-        <div class="container custom_container">
-            <div class="sec_title text-center mb_70">
-                <h2 class="f_p f_size_30 l_height50 f_600 t_color3">Your enterprise carrier in the Cloud</h2>
-                <p class="f_400 f_size_16 mb-0">WShow off show off pick your nose and blow off Elizabeth grub haggle <br> dropped a clanger cracking.!</p>
-            </div>
-            <div class="service_carousel owl-carousel">
-                <div class="service_item">
-                    <div class="icon s_icon_one"><i class="ti-check"></i></div>
-                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>
-                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>
-                    <img class="float-right" src="img/home2/undraw.png" alt="">
-                </div>
-                <div class="service_item">
-                    <div class="icon s_icon_two"><i class="ti-location-arrow"></i></div>
-                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>
-                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>
-                    <img class="float-right" src="img/home2/inbox.png" alt="">
-                </div>
-                <div class="service_item">
-                    <div class="icon s_icon_three"><i class="ti-search"></i></div>
-                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>
-                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>
-                    <img class="float-right" src="img/home2/file.png" alt="">
-                </div>
-                <div class="service_item">
-                    <div class="icon s_icon_four"><i class="ti-stats-up"></i></div>
-                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>
-                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>
-                    <img class="float-right" src="img/home2/report.png" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
+{{--    <section class="prototype_service_area_two">--}}
+{{--        <div class="container custom_container">--}}
+{{--            <div class="sec_title text-center mb_70">--}}
+{{--                <h2 class="f_p f_size_30 l_height50 f_600 t_color3">Your enterprise carrier in the Cloud</h2>--}}
+{{--                <p class="f_400 f_size_16 mb-0">WShow off show off pick your nose and blow off Elizabeth grub haggle <br> dropped a clanger cracking.!</p>--}}
+{{--            </div>--}}
+{{--            <div class="service_carousel owl-carousel">--}}
+{{--                <div class="service_item">--}}
+{{--                    <div class="icon s_icon_one"><i class="ti-check"></i></div>--}}
+{{--                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>--}}
+{{--                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>--}}
+{{--                    <img class="float-right" src="img/home2/undraw.png" alt="">--}}
+{{--                </div>--}}
+{{--                <div class="service_item">--}}
+{{--                    <div class="icon s_icon_two"><i class="ti-location-arrow"></i></div>--}}
+{{--                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>--}}
+{{--                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>--}}
+{{--                    <img class="float-right" src="img/home2/inbox.png" alt="">--}}
+{{--                </div>--}}
+{{--                <div class="service_item">--}}
+{{--                    <div class="icon s_icon_three"><i class="ti-search"></i></div>--}}
+{{--                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>--}}
+{{--                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>--}}
+{{--                    <img class="float-right" src="img/home2/file.png" alt="">--}}
+{{--                </div>--}}
+{{--                <div class="service_item">--}}
+{{--                    <div class="icon s_icon_four"><i class="ti-stats-up"></i></div>--}}
+{{--                    <h4 class="f_600 f_size_20 l_height28 t_color2 mb_20">Mail Metrics<br> Receive</h4>--}}
+{{--                    <p>Brolly off his nut A bit of how's your father chancer in my flat chinwag bog skive.</p>--}}
+{{--                    <img class="float-right" src="img/home2/report.png" alt="">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 
 </div>
 

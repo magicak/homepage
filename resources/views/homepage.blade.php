@@ -274,10 +274,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P2.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo1.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo1.magicak.com</h6>
+                                <a href="https://demo1.magiacak.com" target="_blank">
+                                    <h6>Personal / Blog Porfolio</h6>
                                 </a>
                             </div>
                         </div>
@@ -285,10 +285,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P3.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo2.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo2.magicak.com</h6>
+                                <a href="https://demo2.magiacak.com" target="_blank">
+                                    <h6>Drink / Desert Stores</h6>
                                 </a>
                             </div>
                         </div>
@@ -296,10 +296,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P4.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo3.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo3.magicak.com</h6>
+                                <a href="https://demo3.magiacak.com" target="_blank">
+                                    <h6>Restaurants</h6>
                                 </a>
                             </div>
                         </div>
@@ -307,10 +307,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P5.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo4.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo4.magicak.com</h6>
+                                <a href="https://demo4.magiacak.com" target="_blank">
+                                    <h6>Education / Game Fair / Preschool</h6>
                                 </a>
                             </div>
                         </div>
@@ -318,10 +318,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P6.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo5.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo5.magicak.com</h6>
+                                <a href="https://demo5.magiacak.com" target="_blank">
+                                    <h6>Fashion / Brand Store</h6>
                                 </a>
                             </div>
                         </div>
@@ -329,10 +329,10 @@
                             <div class="portfolio-image">
                                 <div class="img">
                                     <img src="img/magicak/P7.jpg" alt="">
-                                    <a href="#" target="_blank" class="overlay_link"></a>
+                                    <a href="https://demo6.magiacak.com" target="_blank" class="overlay_link"></a>
                                 </div>
-                                <a href="#" target="_blank">
-                                    <h6>demo6.magicak.com</h6>
+                                <a href="https://demo6.magiacak.com" target="_blank">
+                                    <h6>Business / Clinic Websites</h6>
                                 </a>
                             </div>
                         </div>
