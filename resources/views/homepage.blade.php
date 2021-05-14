@@ -47,10 +47,162 @@
             </div>
         </div>
     </section>
+
+    <section class="c_features_area_two" id="features">
+        <div class="container custom_container">
+            <div class="section_title text-center">
+                <h2 class=" wow fadeInUp" data-wow-delay="400ms"><br>MagicAK is loaded with tons of powerful features, options.<br> Building a website has never been easier! </h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-sm-6 wow fadeInUp">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon1.png" alt="">
+                        <h4>State Of The Art Design </h4>
+                        <p>MagicAK comes with modern, beautiful design that will impress your customers.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon2.png" alt="">
+                        <h4>28+ Home Demos</h4>
+                        <p>Choose from 28+ pre-made website demos to get your business going in no time!</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon3.png" alt="">
+                        <h4>250+ Element Blocks </h4>
+                        <p>Use any of 250+ template blocks included and enrich your website in content & design.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon4.png" alt="">
+                        <h4>800+ Google Fonts</h4>
+                        <p>Not satisfied with just one font or two? Choose from Google’s Web Fonts library.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon5.png" alt="">
+                        <h4>One-click Demo Importer</h4>
+                        <p>Using the one-click demo importer, import any demo you see in the live preview.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon6.png" alt="">
+                        <h4>Optimized For SEO</h4>
+                        <p>We mean business for you, so we optimized the theme so that you can rank your website well.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon7.png" alt="">
+                        <h4>Multi-Lingual Support </h4>
+                        <p>MagicAK is fully WPML compatible, build your website in any language - even in an RTL one!</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="c_features_item">
+                        <img src="img/demo/icon2/icon8.png" alt="">
+                        <h4>Responsive & Retina Ready</h4>
+                        <p>MagicAK is 100% responsive to make your website look beautiful in all major devices.</p>
+                    </div>
+                </div>
+{{--                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">--}}
+{{--                    <div class="c_features_item">--}}
+{{--                        <img src="img/demo/icon2/icon9.png" alt="">--}}
+{{--                        <h4>Blazing Fast Performance</h4>--}}
+{{--                        <p>We optimized the theme's performance so that you get a blazing fast website.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">--}}
+{{--                    <div class="c_features_item">--}}
+{{--                        <img src="img/demo/icon2/icon10.png" alt="">--}}
+{{--                        <h4>Extensive Documentation </h4>--}}
+{{--                        <p>The theme comes with a rich, detailed documentation where major things are well explained.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">--}}
+{{--                    <div class="c_features_item">--}}
+{{--                        <img src="img/demo/icon2/icon11.png" alt="">--}}
+{{--                        <h4>Lifetime Updates</h4>--}}
+{{--                        <p>Buy MagicAK once and get further theme updates for lifetime! No extra payment for updates.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">--}}
+{{--                    <div class="c_features_item">--}}
+{{--                        <img src="img/demo/icon2/icon12.png" alt="">--}}
+{{--                        <h4>Friendly & Efficient Support</h4>--}}
+{{--                        <p>We got our most 5 star ratings for customer support. That speaks for the quality of support you get.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+            </div>
+        </div>
+    </section>
+
+    <section class="elemator_area sec_pad" id="builder">
+        <div class="container custom_container">
+            <div class="section_title text-center">
+                <h2>Drag-n-Drop Visual Builder</h2>
+                <p>MagicAK is built upon Elementor, one of the most advanced, easy-to-use page builders inmodern days. Its intuitive, front end builder enables you to make necessary changes on your web-page and its preview panel gives you real-time view of what you are achieving. Pure fun!</p>
+            </div>
+            <div class="elemator_inner">
+                <div class="elemetor_img one" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
+                    <div class="wow fadeIn"><img src="img/magicak/P1.png" alt=""></div>
+                </div>
+                <div class="elemetor_img two" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
+                    <div class="wow fadeIn" data-wow-delay="0.1s"><img src="img/demo/022.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img three" data-parallax='{"x": 0, "y": -12, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.3s"><img src="img/demo/033.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img four" data-parallax='{"x": 0, "y": -22, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.4s"><img src="img/demo/044.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img five" data-parallax='{"x": 0, "y": -25, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.5s"><img src="img/demo/055.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img six" data-parallax='{"x": 0, "y": -10, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.6s"><img src="img/demo/066.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img seven" data-parallax='{"x": 0, "y": -30, "rotateZ":0}'>
+                    <div class="wow fadeInUp"><img src="img/demo/066-1.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img eight" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.2s">
+                        <img src="img/demo/r011.jpg" alt="">
+                    </div>
+                </div>
+                <div class="elemetor_img nine" data-parallax='{"x": 0, "y": -8, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.4s"><img src="img/demo/r022.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img ten" data-parallax='{"x": 0, "y": 12, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.5s"><img src="img/demo/r033.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img eleven" data-parallax='{"x": 0, "y": 22, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.6s"><img src="img/demo/r044.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img r_one" data-parallax='{"x": 0, "y": 5, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.1s"><img src="img/demo/r055.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img r_two" data-parallax='{"x": 0, "y": 8, "rotateZ":0}'>
+                    <div class="wow fadeInUp" data-wow-delay="0.9s"><img src="img/demo/r066.jpg" alt=""></div>
+                </div>
+                <div class="elemetor_img r_three" data-parallax='{"x": 0, "y": 40, "rotateZ":0}'><img src="img/demo/r077.jpg" alt=""></div>
+                <div class="elemator_img">
+                    <img class="e_log" src="img/demo/elemator_log.png" alt="">
+                    <img class="img-fluid" src="img/demo/elemetor.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="demo_features_area sec_pad" id="fe">
         <div class="container custom_container_two">
             <div class="section_title text-center wow fadeInUp" data-wow-delay="0.2s">
-                <h2><span>Why choose MagicAK</span><br>A complete website building<br> toolkit save your time by using MagicAK</h2>
+                <h2>A complete website building<br> toolkit save your time by using MagicAK</h2>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6" data-parallax='{"x": 0, "y": -25, "rotateZ":0}'>
@@ -613,368 +765,221 @@
             </div>
         </div>
     </section>
-    <section class="elemator_area sec_pad" id="builder">
-        <div class="container custom_container">
-            <div class="section_title text-center">
-                <h2>Drag-n-Drop Visual Builder</h2>
-                <p>MagicAK is built upon Elementor, one of the most advanced, easy-to-use page builders inmodern days. Its intuitive, front end builder enables you to make necessary changes on your web-page and its preview panel gives you real-time view of what you are achieving. Pure fun!</p>
-            </div>
-            <div class="elemator_inner">
-                <div class="elemetor_img one" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
-                    <div class="wow fadeIn"><img src="img/magicak/P1.png" alt=""></div>
-                </div>
-                <div class="elemetor_img two" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
-                    <div class="wow fadeIn" data-wow-delay="0.1s"><img src="img/demo/022.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img three" data-parallax='{"x": 0, "y": -12, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.3s"><img src="img/demo/033.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img four" data-parallax='{"x": 0, "y": -22, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.4s"><img src="img/demo/044.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img five" data-parallax='{"x": 0, "y": -25, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.5s"><img src="img/demo/055.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img six" data-parallax='{"x": 0, "y": -10, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.6s"><img src="img/demo/066.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img seven" data-parallax='{"x": 0, "y": -30, "rotateZ":0}'>
-                    <div class="wow fadeInUp"><img src="img/demo/066-1.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img eight" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="img/demo/r011.jpg" alt="">
-                    </div>
-                </div>
-                <div class="elemetor_img nine" data-parallax='{"x": 0, "y": -8, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.4s"><img src="img/demo/r022.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img ten" data-parallax='{"x": 0, "y": 12, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.5s"><img src="img/demo/r033.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img eleven" data-parallax='{"x": 0, "y": 22, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.6s"><img src="img/demo/r044.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img r_one" data-parallax='{"x": 0, "y": 5, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.1s"><img src="img/demo/r055.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img r_two" data-parallax='{"x": 0, "y": 8, "rotateZ":0}'>
-                    <div class="wow fadeInUp" data-wow-delay="0.9s"><img src="img/demo/r066.jpg" alt=""></div>
-                </div>
-                <div class="elemetor_img r_three" data-parallax='{"x": 0, "y": 40, "rotateZ":0}'><img src="img/demo/r077.jpg" alt=""></div>
-                <div class="elemator_img">
-                    <img class="e_log" src="img/demo/elemator_log.png" alt="">
-                    <img class="img-fluid" src="img/demo/elemetor.png" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="demo_feature_area">
-        <img class="f_shap f_shap_one" src="img/demo/f_shap.png" alt="">
-        <img class="f_shap f_shap_two" src="img/demo/f_shap_two.png" alt="">
-        <div class="container custom_container">
-            <div class="row flex-row-reverse align-items-center f_one">
-                <div class="col-lg-6">
-                    <div class="f_img wow fadeInRight" data-wow-delay="0.2s">
-                        <img src="img/demo/f_img.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="f_content">
-                        <div class="g_logo wow fadeInUp">
-                            <img src="img/demo/finger-two.png" alt="">
-                        </div>
-                        <h2 class="wow fadeInUp">Import demo contents in minutes and jump start your website. </h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Using the one-click importer you will get all pages and posts, widgets, theme options and more. If you want to use a page that you see in live preview or some elements from it, just import it. You will get it as you see in the review, now start editing and enjoy!</p>
-                        <!--                            <a href="#demo" class="f_btn wow fadeInUp scrolls" data-wow-delay="0.4s">Explore Demos</a>-->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="shop_area" id="shop">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="shop_slider">
-                        <div class="item">
-                            <img src="img/demo/shop/01.png" alt="">
-                        </div>
-                        <div class="item"><img src="img/demo/shop/02.png" alt=""></div>
-                        <div class="item"><img src="img/demo/shop/03.png" alt=""></div>
-                        <div class="item"><img src="img/demo/shop/04.png" alt=""></div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="u_content">
-                        <h3 class="wow fadeInUp">WooCommerce Integrated</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.1s">Build Your Shop. Start Selling. Grow Your Business. </h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">Setting up an online store is not always easy. But with MagicAK you can jump start your online shop in no time. Add products, setup payment method and start selling right now!</p>
-                        <ul class="list-unstyled">
-                            <li class="wow fadeInUp" data-wow-delay="0.3s">Beautiful shop templates - grid and list views</li>
-                            <li class="wow fadeInUp" data-wow-delay="0.4s">Integrated, seamless shopping cart and checkout</li>
-                            <li class="wow fadeInUp" data-wow-delay="0.5s">Paypal integrated as payment method</li>
-                            <li class="wow fadeInUp" data-wow-delay="0.5s">Manage & track orders and customers</li>
-                        </ul>
-                        <!--                            <a href="https://themeforest.net/item/MagicAK-creative-wordpress-theme-for-saas-business/23362980" class="dmeo_banner_btn wow fadeInUp" data-wow-delay="0.5s">By MagicAK</a>-->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="blog_area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-5">
-                    <div class="u_content">
-                        <h3>Awesome Blogging</h3>
-                        <h2>Various Blog Layouts. Beautiful, Useful & Efficient. </h2>
-                        <p>We have included beautiful and useful blog archive layouts - list, grid, masonry views. And blow single is also a gem. Moreover, you can show or hide the sidebars.</p>
-                        <div class="arrow">
-                            <i class="ti-arrow-left prev"></i>
-                            <i class="ti-arrow-right next"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="blog_slider">
-                        <div class="item">
-                            <div class="blog_item">
-                                <div class="round">
-                                    <div class="text">04<sup>+</sup> <br><span>Layout</span></div>
-                                </div>
-                                <div class="img"><img src="img/demo/blog/blog_01.png" alt=""></div>
-                                <div class="img_two"><img src="img/demo/blog/blog_02.png" alt=""></div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="blog_item">
-                                <div class="round">
-                                    <div class="text">04<sup>+</sup> <br><span>Layout</span></div>
-                                </div>
-                                <div class="img"><img src="img/demo/blog/blog_03.png" alt=""></div>
-                                <div class="img_two"><img src="img/demo/blog/blog_04.png" alt=""></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="responsive_area">
-        <img class="r_shap" src="img/demo/down_bg.png" alt="">
-        <div class="container custom_container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="responsive_device">
-                        <img class="wow fadeInUp" data-wow-delay="0.2s" src="img/demo/iPhone-8.png" alt="">
-                        <img class="wow fadeInUp" data-wow-delay="0.4s" src="img/demo/iPhone-8-Plus.png" alt="">
-                        <img class="wow fadeInUp" data-wow-delay="0.6s" src="img/demo/iPad.png" alt="">
-                        <img class="wow fadeInUp" data-wow-delay="0.8s" src="img/demo/iPhone-X.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="responsive_content">
-                        <div class="u_content">
-                            <h3>Responsive and Retina Ready</h3>
-                            <h2>Consistent and comfortable throughout all major devices. </h2>
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.2s">
-                                    <div class="item">
-                                        <img src="img/demo/design.png" alt="">
-                                        <h5>Responsive layout</h5>
-                                        <p>MagicAK is built for and tested in major mobile devices and all its demos adapt well in these devices.</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.4s">
-                                    <div class="item">
-                                        <img src="img/demo/finger.png" alt="">
-                                        <h5>Retina ready</h5>
-                                        <p>Assets in MagicAK are very well optimized for retina displays. All images, graphics look sharp, crisp in those displays.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="portfolio_area portfolio_padding">
-        <div class="container">
-            <div class="section_title text-center">
-                <h2 class=" wow fadeInUp" data-wow-delay="400ms">Awesome Portfolio </h2>
-                <p class=" wow fadeInUp" data-wow-delay="500ms"> MagicAK comes with a lot of creative, useful & beautiful portfolio layouts and project<br> detail pages along with cool hover effects, animations.</p>
-            </div>
-        </div>
-        <div class="p_slider_inner">
-            <div class="portfolio_slider">
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_01.png" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_02.png" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_03.png" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_04.png" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_05.png" alt="">
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="p_item">
-                        <img src="img/demo/portfolio/pt_01.png" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="arrow">
-                <i class="ti-arrow-left prevs"></i>
-                <i class="ti-arrow-right nexts"></i>
-            </div>
-        </div>
-    </section>
+{{--    <section class="demo_feature_area">--}}
+{{--        <img class="f_shap f_shap_one" src="img/demo/f_shap.png" alt="">--}}
+{{--        <img class="f_shap f_shap_two" src="img/demo/f_shap_two.png" alt="">--}}
+{{--        <div class="container custom_container">--}}
+{{--            <div class="row flex-row-reverse align-items-center f_one">--}}
+{{--                <div class="col-lg-6">--}}
+{{--                    <div class="f_img wow fadeInRight" data-wow-delay="0.2s">--}}
+{{--                        <img src="img/demo/f_img.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-6">--}}
+{{--                    <div class="f_content">--}}
+{{--                        <div class="g_logo wow fadeInUp">--}}
+{{--                            <img src="img/demo/finger-two.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <h2 class="wow fadeInUp">Import demo contents in minutes and jump start your website. </h2>--}}
+{{--                        <p class="wow fadeInUp" data-wow-delay="0.2s">Using the one-click importer you will get all pages and posts, widgets, theme options and more. If you want to use a page that you see in live preview or some elements from it, just import it. You will get it as you see in the review, now start editing and enjoy!</p>--}}
+{{--                        <!--                            <a href="#demo" class="f_btn wow fadeInUp scrolls" data-wow-delay="0.4s">Explore Demos</a>-->--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+
+{{--    <section class="shop_area" id="shop">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-lg-6">--}}
+{{--                    <div class="shop_slider">--}}
+{{--                        <div class="item">--}}
+{{--                            <img src="img/demo/shop/01.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="item"><img src="img/demo/shop/02.png" alt=""></div>--}}
+{{--                        <div class="item"><img src="img/demo/shop/03.png" alt=""></div>--}}
+{{--                        <div class="item"><img src="img/demo/shop/04.png" alt=""></div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-6">--}}
+{{--                    <div class="u_content">--}}
+{{--                        <h3 class="wow fadeInUp">WooCommerce Integrated</h3>--}}
+{{--                        <h2 class="wow fadeInUp" data-wow-delay="0.1s">Build Your Shop. Start Selling. Grow Your Business. </h2>--}}
+{{--                        <p class="wow fadeInUp" data-wow-delay="0.2s">Setting up an online store is not always easy. But with MagicAK you can jump start your online shop in no time. Add products, setup payment method and start selling right now!</p>--}}
+{{--                        <ul class="list-unstyled">--}}
+{{--                            <li class="wow fadeInUp" data-wow-delay="0.3s">Beautiful shop templates - grid and list views</li>--}}
+{{--                            <li class="wow fadeInUp" data-wow-delay="0.4s">Integrated, seamless shopping cart and checkout</li>--}}
+{{--                            <li class="wow fadeInUp" data-wow-delay="0.5s">Paypal integrated as payment method</li>--}}
+{{--                            <li class="wow fadeInUp" data-wow-delay="0.5s">Manage & track orders and customers</li>--}}
+{{--                        </ul>--}}
+{{--                        <!--                            <a href="https://themeforest.net/item/MagicAK-creative-wordpress-theme-for-saas-business/23362980" class="dmeo_banner_btn wow fadeInUp" data-wow-delay="0.5s">By MagicAK</a>-->--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+{{--    <section class="blog_area">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-lg-5">--}}
+{{--                    <div class="u_content">--}}
+{{--                        <h3>Awesome Blogging</h3>--}}
+{{--                        <h2>Various Blog Layouts. Beautiful, Useful & Efficient. </h2>--}}
+{{--                        <p>We have included beautiful and useful blog archive layouts - list, grid, masonry views. And blow single is also a gem. Moreover, you can show or hide the sidebars.</p>--}}
+{{--                        <div class="arrow">--}}
+{{--                            <i class="ti-arrow-left prev"></i>--}}
+{{--                            <i class="ti-arrow-right next"></i>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-7">--}}
+{{--                    <div class="blog_slider">--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="blog_item">--}}
+{{--                                <div class="round">--}}
+{{--                                    <div class="text">04<sup>+</sup> <br><span>Layout</span></div>--}}
+{{--                                </div>--}}
+{{--                                <div class="img"><img src="img/demo/blog/blog_01.png" alt=""></div>--}}
+{{--                                <div class="img_two"><img src="img/demo/blog/blog_02.png" alt=""></div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="item">--}}
+{{--                            <div class="blog_item">--}}
+{{--                                <div class="round">--}}
+{{--                                    <div class="text">04<sup>+</sup> <br><span>Layout</span></div>--}}
+{{--                                </div>--}}
+{{--                                <div class="img"><img src="img/demo/blog/blog_03.png" alt=""></div>--}}
+{{--                                <div class="img_two"><img src="img/demo/blog/blog_04.png" alt=""></div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+{{--    <section class="responsive_area">--}}
+{{--        <img class="r_shap" src="img/demo/down_bg.png" alt="">--}}
+{{--        <div class="container custom_container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-lg-8">--}}
+{{--                    <div class="responsive_device">--}}
+{{--                        <img class="wow fadeInUp" data-wow-delay="0.2s" src="img/demo/iPhone-8.png" alt="">--}}
+{{--                        <img class="wow fadeInUp" data-wow-delay="0.4s" src="img/demo/iPhone-8-Plus.png" alt="">--}}
+{{--                        <img class="wow fadeInUp" data-wow-delay="0.6s" src="img/demo/iPad.png" alt="">--}}
+{{--                        <img class="wow fadeInUp" data-wow-delay="0.8s" src="img/demo/iPhone-X.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-4">--}}
+{{--                    <div class="responsive_content">--}}
+{{--                        <div class="u_content">--}}
+{{--                            <h3>Responsive and Retina Ready</h3>--}}
+{{--                            <h2>Consistent and comfortable throughout all major devices. </h2>--}}
+{{--                            <div class="row">--}}
+{{--                                <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.2s">--}}
+{{--                                    <div class="item">--}}
+{{--                                        <img src="img/demo/design.png" alt="">--}}
+{{--                                        <h5>Responsive layout</h5>--}}
+{{--                                        <p>MagicAK is built for and tested in major mobile devices and all its demos adapt well in these devices.</p>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0.4s">--}}
+{{--                                    <div class="item">--}}
+{{--                                        <img src="img/demo/finger.png" alt="">--}}
+{{--                                        <h5>Retina ready</h5>--}}
+{{--                                        <p>Assets in MagicAK are very well optimized for retina displays. All images, graphics look sharp, crisp in those displays.</p>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+{{--    <section class="portfolio_area portfolio_padding">--}}
+{{--        <div class="container">--}}
+{{--            <div class="section_title text-center">--}}
+{{--                <h2 class=" wow fadeInUp" data-wow-delay="400ms">Awesome Portfolio </h2>--}}
+{{--                <p class=" wow fadeInUp" data-wow-delay="500ms"> MagicAK comes with a lot of creative, useful & beautiful portfolio layouts and project<br> detail pages along with cool hover effects, animations.</p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="p_slider_inner">--}}
+{{--            <div class="portfolio_slider">--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_01.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_02.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_03.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_04.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_05.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="item">--}}
+{{--                    <div class="p_item">--}}
+{{--                        <img src="img/demo/portfolio/pt_01.png" alt="">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="arrow">--}}
+{{--                <i class="ti-arrow-left prevs"></i>--}}
+{{--                <i class="ti-arrow-right nexts"></i>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 
     <!-- utility_pages_1_wrap code end-->
 
 
-    <section class="c_features_area_two" id="features">
-        <div class="container custom_container">
-            <div class="section_title text-center">
-                <h2 class=" wow fadeInUp" data-wow-delay="400ms"><br>MagicAK is loaded with tons of powerful features, options.<br> Building a website has never been easier! </h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-sm-6 wow fadeInUp">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon1.png" alt="">
-                        <h4>State Of The Art Design </h4>
-                        <p>MagicAK comes with modern, beautiful design that will impress your customers.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon2.png" alt="">
-                        <h4>28+ Home Demos</h4>
-                        <p>Choose from 28+ pre-made website demos to get your business going in no time!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon3.png" alt="">
-                        <h4>250+ Element Blocks </h4>
-                        <p>Use any of 250+ template blocks included and enrich your website in content & design.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon4.png" alt="">
-                        <h4>800+ Google Fonts</h4>
-                        <p>Not satisfied with just one font or two? Choose from Google’s Web Fonts library.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon5.png" alt="">
-                        <h4>One-click Demo Importer</h4>
-                        <p>Using the one-click demo importer, import any demo you see in the live preview.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon6.png" alt="">
-                        <h4>Optimized For SEO</h4>
-                        <p>We mean business for you, so we optimized the theme so that you can rank your website well.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon7.png" alt="">
-                        <h4>Multi-Lingual Support </h4>
-                        <p>MagicAK is fully WPML compatible, build your website in any language - even in an RTL one!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon8.png" alt="">
-                        <h4>Responsive & Retina Ready</h4>
-                        <p>MagicAK is 100% responsive to make your website look beautiful in all major devices.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon9.png" alt="">
-                        <h4>Blazing Fast Performance</h4>
-                        <p>We optimized the theme's performance so that you get a blazing fast website.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon10.png" alt="">
-                        <h4>Extensive Documentation </h4>
-                        <p>The theme comes with a rich, detailed documentation where major things are well explained.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon11.png" alt="">
-                        <h4>Lifetime Updates</h4>
-                        <p>Buy MagicAK once and get further theme updates for lifetime! No extra payment for updates.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="c_features_item">
-                        <img src="img/demo/icon2/icon12.png" alt="">
-                        <h4>Friendly & Efficient Support</h4>
-                        <p>We got our most 5 star ratings for customer support. That speaks for the quality of support you get.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="portfolio_area_three">
-        <div class="container">
-            <div class="section_title text-center">
-                <h2 class=" wow fadeInUp" data-wow-delay="400ms"> Showcase - Websites Built With MagicAK</h2>
-            </div>
-        </div>
-        <div class="portfolio_slider_two">
-            <div class="item">
-                <img src="img/demo/clients_site1.jpg" alt="">
-                <h6><a href="https://landbot.io/">Landbot</a></h6>
-            </div>
-            <div class="item">
-                <img src="img/demo/clients_site2.jpg" alt="">
-                <h6><a href="http://www.contentwhip.maxnorton.co/">ContentWhip</a></h6>
-            </div>
-            <div class="item">
-                <img src="img/demo/clients_site3.jpg" alt="">
-                <h6><a href="https://table.co/">TTable</a></h6>
-            </div>
-            <div class="item">
-                <img src="img/demo/clients_site4.jpg" alt="">
-                <h6><a href="https://smmcafe.site/">Smmcafe</a></h6>
-            </div>
-            <div class="item">
-                <img src="img/demo/clients_site6.jpg" alt="">
-                <h6><a href="https://blondieconsulting.ru">Blondie</a></h6>
-            </div>
-        </div>
-    </section>
+
+{{--    <section class="portfolio_area_three">--}}
+{{--        <div class="container">--}}
+{{--            <div class="section_title text-center">--}}
+{{--                <h2 class=" wow fadeInUp" data-wow-delay="400ms"> Showcase - Websites Built With MagicAK</h2>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="portfolio_slider_two">--}}
+{{--            <div class="item">--}}
+{{--                <img src="img/demo/clients_site1.jpg" alt="">--}}
+{{--                <h6><a href="https://landbot.io/">Landbot</a></h6>--}}
+{{--            </div>--}}
+{{--            <div class="item">--}}
+{{--                <img src="img/demo/clients_site2.jpg" alt="">--}}
+{{--                <h6><a href="http://www.contentwhip.maxnorton.co/">ContentWhip</a></h6>--}}
+{{--            </div>--}}
+{{--            <div class="item">--}}
+{{--                <img src="img/demo/clients_site3.jpg" alt="">--}}
+{{--                <h6><a href="https://table.co/">TTable</a></h6>--}}
+{{--            </div>--}}
+{{--            <div class="item">--}}
+{{--                <img src="img/demo/clients_site4.jpg" alt="">--}}
+{{--                <h6><a href="https://smmcafe.site/">Smmcafe</a></h6>--}}
+{{--            </div>--}}
+{{--            <div class="item">--}}
+{{--                <img src="img/demo/clients_site6.jpg" alt="">--}}
+{{--                <h6><a href="https://blondieconsulting.ru">Blondie</a></h6>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 </div>
 
 @include("partials/footer")

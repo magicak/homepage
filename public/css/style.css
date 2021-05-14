@@ -22427,3 +22427,7 @@ a .h_head:hover {
     background-image: none;
     background-color: #5e2ced;
 }
+.elemetor_img.one {
+    left: 303px;
+    top: -4px;
+}
