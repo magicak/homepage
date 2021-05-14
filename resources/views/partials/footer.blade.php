@@ -13,6 +13,26 @@
     <img src="img/demo/shape/footer_shap_3.png" alt="#" class="footer_shap_3">
     <div class="circle_shape_1"></div>
 </footer>
+<footer class="footer_area footer_area_four f_bg">
+    <div class="footer_bottom">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <p class="mb-0 f_400">Copyright © 2021 Design and Develop by <a href="https://www.magicak.com">Magicak</a></p>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="f_social_icon_two text-right">
+                        <a href="#"><i class="ti-facebook"></i></a>
+                        <a href="#"><i class="ti-twitter-alt"></i></a>
+                        <a href="#"><i class="ti-vimeo-alt"></i></a>
+                        <a href="#"><i class="ti-pinterest"></i></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
 <script src="{{ asset ("js/jquery-3.2.1.min.js") }}"></script>
 <script src="{{ asset ("js/propper.js") }}"></script>
 <script src="{{ asset ("js/bootstrap.min.js") }}"></script>
