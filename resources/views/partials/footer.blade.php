@@ -1,7 +1,7 @@
 <footer class="footer_part">
     <div class="container">
-        <a href="#" class="f_logo"><img src="img/demo/f_logo.png" srcset="img/demo/f_logo-2.png 2x" alt=""></a>
-        <h2 class="wow fadeInUp" data-wow-delay="0.2s">Grab MagicAK, Get Started<br> and Grow Your Business. </h2>
+        <a href="#" class="f_logo"><img src="img/white_logo.png" srcset="img/white_logo.png 2x" alt=""></a>
+        <h2 class="wow fadeInUp" data-wow-delay="0.2s">Grab Magicak, Get Started<br> and Grow Your Business. </h2>
         <a class="wow fadeInUp" data-wow-delay="0.4s" href="#"><i class="icon_cart_alt"></i>Let's Go </a>
     </div>
     <div class="one_img wow slideInnew footer_shap_1" data-wow-delay="1s">

@@ -14,7 +14,7 @@
     </section>
     <section class="agency_service_area bg_color">
         <div class="container">
-            <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You MagicAK wherever your<br>
+            <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You Magicak wherever your<br>
                 business agency</h2>
             <div class="row mb_30">
                 <div class="col-lg-4 col-sm-6">

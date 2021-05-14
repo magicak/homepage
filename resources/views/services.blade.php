@@ -20,7 +20,7 @@
             <div class="pulse-x"></div>
         </div>
         <div class="container">
-            <h2 class="f_size_30 f_600 t_color3 l_height45 text-center mb_90">MagicAK web platform is built for Non-IT users to expert level<br> With useful features, an intuitive interface.</h2>
+            <h2 class="f_size_30 f_600 t_color3 l_height45 text-center mb_90">Magicak web platform is built for Non-IT users to expert level<br> With useful features, an intuitive interface.</h2>
             <div class="row p_service_info">
                 <div class="col-lg-4 col-sm-6">
                     <div class="p_service_item pr_70">

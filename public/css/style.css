@@ -22431,3 +22431,10 @@ a .h_head:hover {
     left: 303px;
     top: -4px;
 }
+.magicak_logo {
+    max-width: 160px;
+}
+.footer_part {
+    padding: 40px 0px 50px;
+    margin-top: 30px;
+}

@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="banner_text">
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s">Let's create your awsome <mark><span class="typed"></span></mark> and more.</h2>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s">Let's create your awsome <br><mark><span class="typed"></span></mark> and more.</h2>
                         <p class="wow fadeInUp" data-wow-delay="0.4s">A beautiful, modern, complete, prebuild webs for building next generation websites. Discover our Platform that gives you a simple way to get your dream pages done with the best SEO performance and smoother than ever.</p>
                         <a href="#fe" class="dmeo_banner_btn wow fadeInUp scrolls" data-wow-delay="0.6s">Get Started</a>
                     </div>
@@ -51,14 +51,14 @@
     <section class="c_features_area_two" id="features">
         <div class="container custom_container">
             <div class="section_title text-center">
-                <h2 class=" wow fadeInUp" data-wow-delay="400ms"><br>MagicAK is loaded with tons of powerful features, options.<br> Building a website has never been easier! </h2>
+                <h2 class=" wow fadeInUp" data-wow-delay="400ms"><br>Magicak is loaded with tons of powerful features, options.<br> Building a website has never been easier! </h2>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp">
                     <div class="c_features_item">
                         <img src="img/demo/icon2/icon1.png" alt="">
                         <h4>State Of The Art Design </h4>
-                        <p>MagicAK comes with modern, beautiful design that will impress your customers.</p>
+                        <p>Magicak comes with modern, beautiful design that will impress your customers.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -100,14 +100,14 @@
                     <div class="c_features_item">
                         <img src="img/demo/icon2/icon7.png" alt="">
                         <h4>Multi-Lingual Support </h4>
-                        <p>MagicAK is fully WPML compatible, build your website in any language - even in an RTL one!</p>
+                        <p>Magicak is fully WPML compatible, build your website in any language - even in an RTL one!</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="c_features_item">
                         <img src="img/demo/icon2/icon8.png" alt="">
                         <h4>Responsive & Retina Ready</h4>
-                        <p>MagicAK is 100% responsive to make your website look beautiful in all major devices.</p>
+                        <p>Magicak is 100% responsive to make your website look beautiful in all major devices.</p>
                     </div>
                 </div>
 {{--                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">--}}
@@ -146,7 +146,7 @@
         <div class="container custom_container">
             <div class="section_title text-center">
                 <h2>Drag-n-Drop Visual Builder</h2>
-                <p>MagicAK is built upon Elementor, one of the most advanced, easy-to-use page builders inmodern days. Its intuitive, front end builder enables you to make necessary changes on your web-page and its preview panel gives you real-time view of what you are achieving. Pure fun!</p>
+                <p>Magicak is built upon Elementor, one of the most advanced, easy-to-use page builders inmodern days. Its intuitive, front end builder enables you to make necessary changes on your web-page and its preview panel gives you real-time view of what you are achieving. Pure fun!</p>
             </div>
             <div class="elemator_inner">
                 <div class="elemetor_img one" data-parallax='{"x": 0, "y": -15, "rotateZ":0}'>
@@ -192,8 +192,9 @@
                 </div>
                 <div class="elemetor_img r_three" data-parallax='{"x": 0, "y": 40, "rotateZ":0}'><img src="img/demo/r077.jpg" alt=""></div>
                 <div class="elemator_img">
-                    <img class="e_log" src="img/demo/elemator_log.png" alt="">
-                    <img class="img-fluid" src="img/demo/elemetor.png" alt="">
+{{--                    <img class="e_log" src="img/demo/elemator_log.png" alt="">--}}
+{{--                    <img class="img-fluid" src="img/demo/elemetor.png" alt="">--}}
+                    <img class="img-fluid" src="img/magicak/P1.png" alt="">
                 </div>
             </div>
         </div>
@@ -202,7 +203,7 @@
     <section class="demo_features_area sec_pad" id="fe">
         <div class="container custom_container_two">
             <div class="section_title text-center wow fadeInUp" data-wow-delay="0.2s">
-                <h2>A complete website building<br> toolkit save your time by using MagicAK</h2>
+                <h2>A complete website building<br> toolkit save your time by using Magicak</h2>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6" data-parallax='{"x": 0, "y": -25, "rotateZ":0}'>
@@ -210,7 +211,7 @@
                         <img src="img/demo/features_4.png" alt="">
                         <div class="content">
                             <h3>No Coding Required</h3>
-                            <p>Setup a fully functional, awesome website without needing to code a single line - MagicAK is that easy to configure.</p>
+                            <p>Setup a fully functional, awesome website without needing to code a single line - Magicak is that easy to configure.</p>
                         </div>
                     </div>
                 </div>
@@ -276,7 +277,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Personal / Blog Porfolio</h6>
+                                    <h6>demo1.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
@@ -287,7 +288,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Drink / Desert Stores</h6>
+                                    <h6>demo2.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
@@ -298,7 +299,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Restaurants</h6>
+                                    <h6>demo3.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
@@ -309,7 +310,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Education / Game Fair / Preschool</h6>
+                                    <h6>demo4.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
@@ -320,7 +321,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Fashion / Brand Store</h6>
+                                    <h6>demo5.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
@@ -331,7 +332,7 @@
                                     <a href="#" target="_blank" class="overlay_link"></a>
                                 </div>
                                 <a href="#" target="_blank">
-                                    <h6>Business / Clinic Websites</h6>
+                                    <h6>demo6.magicak.com</h6>
                                 </a>
                             </div>
                         </div>
