@@ -22425,7 +22425,7 @@ a .h_head:hover {
 
 .breadcrumb_area{
     background-image: none;
-    background-color: #5e2ced;
+    background-color: #02102a;
 }
 .elemetor_img.one {
     left: 303px;
@@ -22441,4 +22441,24 @@ a .h_head:hover {
 }
 .footer_part .f_logo img {
     height: 70px;
+}
+.sec_pad {
+    padding: 60px 0px;
+}
+.btn_get {
+    color: #02102a;
+}
+.footer_part a i {
+ padding-right: 0;
+}
+@media (max-width: 450px) {
+    .footer_part .f_logo img {
+        height: auto;
+    }
+    .footer_bottom p {
+        font-size: 14px;
+    }
+    .about_content {
+        height: auto;
+    }
 }
