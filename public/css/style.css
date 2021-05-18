@@ -22435,7 +22435,7 @@ a .h_head:hover {
     max-width: 160px;
 }
 .footer_part {
-    padding: 40px 0px 50px;
+    /*padding: 40px 0px 50px;*/
     margin-top: 50px;
     background: #02102a;
 }
@@ -22459,6 +22459,14 @@ a .h_head:hover {
         font-size: 14px;
     }
     .about_content {
+        height: auto;
+    }
+}
+@media (max-width: 1055px) {
+    .about_content {
+        height: auto;
+    }
+    .footer_part .f_logo img {
         height: auto;
     }
 }

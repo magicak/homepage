@@ -58,12 +58,10 @@
     <section class="agency_about_area d-flex bg_color">
         <div class="col-lg-6 about_content_left ">
             <div class="about_content mb_30">
-                <h2 class="f_size_30 f_700 l_height45 mb_20">We craft marketing & digital products that grow
-                    businesses.</h2>
-                <p class="f_size_15 f_400">Why I say old chap that is spiffing bodge, blag pardon me buggered mufty
-                    Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy cras tickety-boo
-                    squiffy.!</p>
-                <a href="#" class="about_btn btn_hover mt_40">Meet Your Team</a>
+                <h2 class="f_size_30 f_700 l_height45 mb_20">We craft marketing & digital products that grow businesses.</h2>
+                <p class="f_size_15 f_400">We are more than an online web design tool. Along with your business journey, you will realize our tool as part
+                of your day to day operations and connect your services and products to the target consumers.</p>
+{{--                <a href="#" class="about_btn btn_hover mt_40">Meet Your Team</a>--}}
             </div>
         </div>
         <div class="col-lg-6 about_img">
@@ -74,24 +72,21 @@
                         <img src="img/aboutus/Pic1.webp" alt="">
                         <div class="about_text">
                             <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Why I say old chap that is spiffing bodge, blag
-                                pardon.</h5>
+                            <h5 class="f_size_18 l_height28 mb-0">Customers can find your services faster than ever by using native cache front/back end</h5>
                         </div>
                     </div>
                     <div class="about_item w55">
                         <img src="img/aboutus/Pic2.webp" alt="">
                         <div class="about_text text_two">
                             <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Oxford butty bubble and squeak wind up, brown
-                                bread the full monty.</h5>
+                            <h5 class="f_size_18 l_height28 mb-0">We have a high available cloud system which offer service uptime from 99 to 99.99% SLA</h5>
                         </div>
                     </div>
                     <div class="about_item w55">
                         <img src="img/aboutus/pic3.webp" alt="">
                         <div class="about_text text_two">
                             <span class="br"></span>
-                            <h5 class="f_size_18 l_height28 mb-0">Starkers dropped a clanger lurgy is cack excuse my
-                                French what.</h5>
+                            <h5 class="f_size_18 l_height28 mb-0">With our latest evolution technology, your business will reach to your needed custommers.</h5>
                         </div>
                     </div>
                 </div>
