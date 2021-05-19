@@ -22442,9 +22442,9 @@ a .h_head:hover {
 .footer_part .f_logo img {
     height: auto;
 }
-.sec_pad {
-    padding: 60px 0px;
-}
+/*.sec_pad {*/
+/*    padding: 60px 0px;*/
+/*}*/
 .btn_get {
     color: #02102a;
 }
