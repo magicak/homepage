@@ -23,8 +23,7 @@
                             <i class="ti-panel"></i>
                         </div>
                         <h5 class="f_600 f_p t_color3">Export Presets</h5>
-                        <p>Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty
-                            bubble and squeak wind up, brown bread the full monty bloke ruddy.!</p>
+                        <p>Why I say old chap that is spiffing bodge, blag pardon me buggered mufty Oxford butty bubble and squeak wind up, brown bread the full monty bloke ruddy.! </p>
                         <p class="mb-0"><a href="#">Read More</a><i class="ti-arrow-right"></i></p>
                     </div>
                 </div>
