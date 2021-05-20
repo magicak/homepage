@@ -54,7 +54,46 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="form-group text_box">
+                                        <select name="type">
+                                            <option value="Starting your Magicak account">Starting your Magicak account</option>
+                                            <option value="Adding and editing pages and blocks">Adding and editing pages and blocks</option>
+                                            <option value="Billing and paying for Magicak">Billing and paying for Magicak</option>
+                                            <option value="Commerce and online stores">Commerce and online stores</option>
+                                            <option value="Connecting email services to your site">Connecting email services to your site</option>
+                                            <option value="Designing your site and managing your template">Designing your site and managing your template</option>
+                                            <option value="Email Campaigns">Email Campaigns</option>
+                                            <option value="Galleries, images, and video">Galleries, images, and video</option>
+                                            <option value="Logging in and managing your account">Logging in and managing your account</option>
+                                            <option value="Purchase, connect, or transfer a domain">Purchase, connect, or transfer a domain</option>
+                                            <option value="Marketing, media or press inquiries">Marketing, media or press inquiries</option>
+                                            <option value="Member Areas">Member Areas</option>
+                                            <option value="Outages and errors">Outages and errors</option>
+                                            <option value="Magicak Mobile Apps">Magicak Mobile Apps</option>
+                                            <option value="Magicak Scheduling">Magicak Scheduling</option>
+                                            <option value="SEO, social, and site analytics">SEO, social, and site analytics</option>
+                                            <option value="Privacy and security">Privacy and security</option>
+                                            <option value="Account Recovery">Account Recovery</option>
+                                            <option value="Delete My Account">Delete My Account</option>
+                                            <option value="Delete My Account Request Verification Form">Delete My Account Request Verification Form</option>
+                                            <option value="Deceased Owner Form">Deceased Owner Form</option>
+                                            <option value="Enterprise Inquiry">Enterprise Inquiry</option>
+                                            <option value="Request help with a domain move">Request help with a domain move</option>
+                                            <option value="Help and support during the Coronavirus Pandemic">Help and support during the Coronavirus Pandemic</option>
+                                            <option value="Request a refund">Request a refund</option>
+                                            <option value="Magicak Forum">Magicak Forum</option>
+                                            <option value="Terms of service and policy updates">Terms of service and policy updates</option>
+                                            <option value="Others">Others</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-group text_box">
                                         <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter Your Message . . ."></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-group text_box">
+                                        <input type="file" id="file" name="file" placeholder="Select a file">
                                     </div>
                                 </div>
                             </div>
