@@ -5,7 +5,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="img/favicon_magicak.png" type="image/x-icon">
+{{--    <link rel="shortcut icon" href="img/favicon_magicak.png" type="image/x-icon">--}}
+    <link rel="shortcut icon" href="img/logo/Magicak_gold.png" type="image/x-icon">
     <title>Magicak</title>
     <!-- Bootstrap CSS -->
     <link href="{{ asset("css/bootstrap.min.css") }}" rel="stylesheet" type="text/css" />
@@ -78,7 +79,7 @@
 <header class="header_area">
     <nav class="navbar navbar-expand-lg menu_one" id="landing_page">
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="img/black_logo.png" srcset="img/black_logo.png 2x" alt="logo" class="magicak_logo"></a>
+            <a class="navbar-brand" href="#"><img src="img/logo/Magicak_black.png" srcset="img/logo/Magicak_black.png 2x" alt="logo" class="magicak_logo"></a>
             <a class="btn_get btn_hover mobile_btn ml-auto" href="#get-app">Get Started</a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="menu_toggle">
@@ -115,9 +116,9 @@
     <nav class="navbar navbar-expand-lg menu_one menu_four">
         <div class="container">
             <a class="navbar-brand sticky_logo" href="#">
-                <img src="img/white_logo.png" srcset="img/white_logo.png 2x"
+                <img src="img/logo/Magicak_white.png" srcset="img/logo/Magicak_white.png 2x"
                                                               alt="logo" class="magicak_logo">
-                <img src="img/black_logo.png" srcset="img/black_logo.png 2x" alt="" class="magicak_logo"></a>
+                <img src="img/logo/Magicak_black.png" srcset="img/logo/Magicak_black.png2x" alt="" class="magicak_logo"></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">

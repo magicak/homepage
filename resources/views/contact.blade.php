@@ -14,7 +14,7 @@
     <section class="mapbox2">
 {{--        <div id="mapBox" class="row m0" data-lat="1.2756998" data-lon="103.8436211" data-zoom="17" data-info="10 ANSON ROAD #27-12 INTERNATIONAL PLAZA SINGAPORE (079903)." data-marker="img/map.png" data-mlat="1.2756998" data-mlon="103.8436211">--}}
 {{--        </div>--}}
-        <iframe width="100%" height="440" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1080&amp;height=540&amp;hl=en&amp;q=International%20Plaza%20Singapore%20079903%20Singapore+()&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='https://mapswebsite.org/'>embedding google maps</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7b866113e1cbbd102edc5fe066980b90678e2e94'></script>
+        <iframe width="100%" height="440" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=1080&amp;height=540&amp;hl=en&amp;q=International%20Plaza%20Singapore%20079903%20Singapore+()&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=7b866113e1cbbd102edc5fe066980b90678e2e94'></script>
     </section>
     <section class="contact_info_area sec_pad bg_color">
         <div class="container">

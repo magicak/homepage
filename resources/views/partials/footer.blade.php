@@ -1,6 +1,6 @@
 <footer class="footer_part">
     <div class="container">
-        <a href="#" class="f_logo"><img src="img/logo_black_icon.png" srcset="img/logo_black_icon.png 2x" alt=""></a>
+        <a href="#" class="f_logo"><img src="img/logo/Magicak_gold.png" srcset="img/logo/Magicak_gold.png 2x" alt=""></a>
         <h2 class="wow fadeInUp" data-wow-delay="0.2s">Grab Magicak, Get Started<br> and Grow Your Business. </h2>
         <a class="wow fadeInUp" data-wow-delay="0.4s" href="#"><i class="icon_cart_alt"></i>Let's Go </a>
     </div>
